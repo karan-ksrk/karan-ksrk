@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karan-ksrk&theme=blue-green)](https://github.com/karan-ksrk/github-readme-stats)
+[![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karan-ksrk&theme=blue-green)](https://github.com/karan-ksrk/github-readme-stats)
