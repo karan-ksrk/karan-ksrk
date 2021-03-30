@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
-[![Karan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-ksrk&theme=blue-green)](https://github.com/karan-ksrk/github-readme-stats)
 
 [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karan-ksrk&theme=blue-green)](https://github.com/karan-ksrk/github-readme-stats)
+[![Karan's github trophy](https://github-profile-trophy.vercel.app/?username=karan-ksrk&row=1)](https://github.com/karan-ksrk/github-profile-trophy)
