@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
 
-[![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karan-ksrk&theme=blue-green)](https://github.com/karan-ksrk/github-readme-stats)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-ksrk&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-ksrk&theme=tokyonight" />
 
 
 [![Karan's github trophy](https://github-profile-trophy.vercel.app/?username=karan-ksrk&row=1)](https://github.com/karan-ksrk/github-profile-trophy)
