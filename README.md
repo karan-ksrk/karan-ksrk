@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 ## Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/karan-singh-136ab0165"><img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" /></a>
-  <a href="https://ksrk.medium.com"><img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" /></a>
+  <a href="https://www.linkedin.com/in/karan-singh-136ab0165"><img align="left" alt="LinkedIn" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ksrk.medium.com"><img align="left" alt="LinkedIn" width="80" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+</br>
 
 ## Tools & Technologies:
 <p align="center">
