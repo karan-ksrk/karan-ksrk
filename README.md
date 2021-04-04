@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Future Developers 👋
 
 
 Here are some ideas to get you started:
@@ -11,7 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
 - ⚡ Fun fact: I don't like slow laptop and pc.
 
+---
 
+## Connect with me
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/karan-singh-136ab0165)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://ksrk.medium.com)
+</br>
+---
 
 ## Tools & Technologies:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000)
