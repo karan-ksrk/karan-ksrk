@@ -1,3 +1,5 @@
+[<img src="terminal.png" />]( https://www.linkedin.com/in/karan-singh-136ab0165)
+---
 ### Hi Future Developers 👋
 
 
