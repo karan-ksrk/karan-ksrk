@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ---
 
 ## Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/karan-singh-136ab0165)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://ksrk.medium.com)
-</br>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-singh-136ab0165"><img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" /></a>
+  <a href="https://ksrk.medium.com"><img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" /></a>
+</p>
 
 ## Tools & Technologies:
 <p align="center">
