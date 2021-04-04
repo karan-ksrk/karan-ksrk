@@ -1,4 +1,6 @@
-[<img src="terminal.png" />]()
+
+<p align="center"><img width="70%" src="terminal.png" alt="lang image here" /></p>
+
 ---
 
 ### Hi Future Developers 👋
