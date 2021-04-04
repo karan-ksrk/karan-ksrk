@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-ksrk&theme=tokyonight" />
 </p>
 
-[![Karan's github trophy](https://github-profile-trophy.vercel.app/?username=karan-ksrk&row=1)](https://github.com/karan-ksrk/github-profile-trophy)
+[![Karan's github trophy](https://github-profile-trophy.vercel.app/?username=karan-ksrk&theme=nord)]
