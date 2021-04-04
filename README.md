@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=karan-ksrk&theme=nord&no-frame=true" />
 </p>
+
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{karan-ksrk}/count.svg" /></p> 
