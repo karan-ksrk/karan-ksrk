@@ -1,7 +1,7 @@
-[<img src="terminal.png" />]( https://www.linkedin.com/in/karan-singh-136ab0165)
+[<img src="terminal.png" />]()
 ---
-### Hi Future Developers 👋
 
+### Hi Future Developers 👋
 
 Here are some ideas to get you started:
 
