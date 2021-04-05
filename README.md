@@ -1,5 +1,5 @@
 
-<p align="center"><img width="60%" src="terminal3.png" alt="lang image here" /></p>
+<p align="center"><img width="100%" src="terminal3.png" alt="lang image here" /></p>
 
 ---
 
