@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{karan-ksrk}/count.svg" /></p> 
+
+<p align="center"><img width="40%" src="dog.gif" alt="lang image here" /></p>
