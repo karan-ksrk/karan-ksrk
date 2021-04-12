@@ -5,8 +5,6 @@
 
 ### Hi Future Developers 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on front End
 - 🌱 I’m currently learning React, Block-Chain
 - 👯 I’m looking to collaborate on developing and improving my repositories.
