@@ -1,5 +1,5 @@
 
-<p align="center"><img width="90%" src="terminal_A.gif" alt="lang image here" /></p>
+<p align="center"><img width="70%" src="terminal_A.gif" alt="lang image here" /></p>
 
 ---
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on front End
 - 🌱 I’m currently learning React, Block-Chain
-- 👯 I’m looking to collaborate on developing and improving my repositories.
-- 🤔 I’m looking for help with Front End.
+- 👯 I’m looking to collaborate on developing and improving my repositories
+- 🤔 I’m looking for help with Front End
 - 💬 Ask me about Project, New Technology, Cloud, AI
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
-- ⚡ Fun fact: I don't like slow laptop and pc.
+- ⚡ Fun fact: I don't like slow laptop and pc
 
 ---
 
@@ -44,9 +44,5 @@
 <p align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=karan-ksrk&theme=nord&no-frame=true" />
 </p>
-
-
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{karan-ksrk}/count.svg" /></p> 
 
 <p align="center"><img width="40%" src="dog.gif" alt="lang image here" /></p>
