@@ -28,7 +28,6 @@
 <p align="center">
   <img alt="python" src="https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000" />
   <img alt="django" src="https://img.shields.io/static/v1?style=for-the-badge&logo=django&message=Django&label=&color=092D1F&labelColor=000000" />
-  <img alt="vscode" src="https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=0081CF&labelColor=000000" />
   <img alt="git" src="https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000" />
   <img alt="flutter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000" />
   <img alt="dart" src="https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000" />
