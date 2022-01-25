@@ -44,4 +44,4 @@
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=karan-ksrk&theme=nord&no-frame=true" />
 </p>
 
-<p align="center"><img width="40%" src="dog.gif" alt="lang image here" /></p>
+<p align="center"><img width="20%" src="dog.gif" alt="lang image here" /></p>
