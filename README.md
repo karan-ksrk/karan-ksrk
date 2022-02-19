@@ -3,12 +3,10 @@
 
 ---
 
-### Hi Future Developers 👋
+### Hi Developers, Engineers and Contributors 👋
 
-- 🔭 I’m currently working on front End
-- 🌱 I’m currently learning React, Block-Chain
-- 👯 I’m looking to collaborate on developing and improving my repositories
-- 🤔 I’m looking for help with Front End
+- 🔭 I’m a Backend Engineer heavily on Django.
+- 🌱 I'm flexible in any backend technology, fast learner, practicals demonstrator.
 - 💬 Ask me about Project, New Technology, Cloud, AI
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
 - ⚡ Fun fact: I don't like slow laptop and pc
