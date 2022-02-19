@@ -6,7 +6,7 @@
 ### Hi Developers, Engineers and Contributors 👋
 
 - 🔭 I’m a Backend Engineer heavily on Django.
-- 🌱 I'm flexible in any backend technology, fast learner, practicals demonstrator.
+- 🌱 I'm flexible in any backend technology, fast learner, practical demonstrator.
 - 💬 Ask me about Project, New Technology, Cloud, AI
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
 - ⚡ Fun fact: I don't like slow laptop and pc
