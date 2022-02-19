@@ -9,7 +9,7 @@
 - 🌱 I'm flexible in any backend technology, fast learner, practical demonstrator.
 - 💬 Ask me about Project, New Technology, Cloud, AI
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
-- ⚡ Fun fact: I don't like slow laptop and pc
+- ⚡ Fun fact: I love you
 
 ---
 
