@@ -5,11 +5,11 @@
 
 ### Hi Developers, Engineers and Contributors 👋
 
-- 🔭 I’m a Backend Engineer heavily on Django.
+- 🔭 I’m a Backend Engineer in python,
 - 🌱 I'm flexible in any backend technology, fast learner, practical demonstrator.
-- 💬 Ask me about Project, New Technology, Cloud, AI
+- 💬 Currently learning web3, smart-contract, dApps in solana.
 - 📫 How to reach me: Email me at karanksrk2000@outlook.com
-- ⚡ Fun fact: I love you
+- ⚡ Fun fact: I love everything
 
 ---
 
