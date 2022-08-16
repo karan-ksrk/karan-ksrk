@@ -8,7 +8,7 @@
 - 🔭 I’m a Backend Engineer in python,
 - 🌱 I'm flexible in any backend technology, fast learner, practical demonstrator.
 - 💬 Currently learning web3, smart-contract, dApps in solana.
-- 📫 How to reach me: Email me at karanksrk2000@outlook.com
+- 📫 How to reach me: Email me at https://ksrk47.xyz/bio-link/
 - ⚡ Fun fact: I love everything
 
 ---
