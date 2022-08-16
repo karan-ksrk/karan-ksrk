@@ -5,11 +5,9 @@
 
 ### Hi Developers, Engineers and Contributors 👋
 
-- 🔭 I’m a Backend Engineer in python,
-- 🌱 I'm flexible in any backend technology, fast learner, practical demonstrator.
+- 🔭 I’m a Backend Engineer,
 - 💬 Currently learning web3, smart-contract, dApps in solana.
 - 📫 How to reach me: Email me at https://ksrk47.xyz/bio-link/
-- ⚡ Fun fact: I love everything
 
 ---
 
@@ -26,7 +24,6 @@
 <p align="center">
   <img alt="python" src="https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000" />
   <img alt="django" src="https://img.shields.io/static/v1?style=for-the-badge&logo=django&message=Django&label=&color=092D1F&labelColor=000000" />
-  <img alt="git" src="https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000" />
   <img alt="flutter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000" />
   <img alt="dart" src="https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000" />
   <img alt="firebase" src="https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000" />
@@ -35,11 +32,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-ksrk&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-ksrk&theme=tokyonight" />
 </p>
-
----
-
-<p align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=karan-ksrk&theme=nord&no-frame=true" />
-</p>
-
-<p align="center"><img width="20%" src="dog.gif" alt="lang image here" /></p>
