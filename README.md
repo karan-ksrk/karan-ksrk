@@ -6,8 +6,6 @@
 ### Hi Developers, Engineers and Contributors 👋
 
 - 🔭 I’m a Backend Engineer,
-- 💬 Currently learning web3, smart-contract, dApps in solana.
-- 📫 How to reach me: Email me at https://ksrk47.xyz/bio-link/
 
 ---
 
