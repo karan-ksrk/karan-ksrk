@@ -26,7 +26,4 @@
   <img alt="dart" src="https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000" />
   <img alt="firebase" src="https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000" />
 </p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan-ksrk&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-ksrk&theme=tokyonight" />
-</p>
+
